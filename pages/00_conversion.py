@@ -10,7 +10,7 @@ from conversation_chain import EnglishConversationChain, SummaryChain, BlogChain
 #logging.langsmith("CH01-Basic")
 
 # 사이트의 제목 입력
-st.title("나만의 챗GPT")
+st.title("모두의 챗GPT")
 
 with st.sidebar:
     selected_model = st.selectbox("모델 선택", ["gpt-4o-mini", "gpt-4o"], index=0)
