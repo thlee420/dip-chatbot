@@ -11,7 +11,7 @@ col1.markdown("##### 만든이")
 col1.markdown("###### :man: [Taehee](https:researchgate.net/profile/Taehee-Lee)")
 col1.markdown("###### :email: [이메일 보내기](mailto:thlee420@gmail.com)")
 
-col1.markdown("##### 지도자")
+col1.markdown("##### 지도자 (A.K.A. 대장님)")
 col1.markdown("###### :male-teacher: [Teddy](https:https://github.com/teddylee777)")
 col1.markdown("###### :email: [이메일 보내기](mailto:teddy777420@gmail.com)")
 
