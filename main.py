@@ -21,7 +21,7 @@ col2.markdown(
     ##### OpenAI API 키 발급 방법은 아래 링크를 참고해 주세요!
     * [발급방법](https://wikidocs.net/233342)
 
-    ##### 실시간 검색을 위한 TAVILY_API_KEY 키 발급 방법은 아래 링크를 참고해 주세요!
+    ##### 실시간 검색을 위한 TAVILY API 키 발급 방법은 아래 링크를 참고해 주세요!
     * [발급방법](https://app.tavily.com/home)
     """
     )
