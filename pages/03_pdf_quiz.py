@@ -3,7 +3,7 @@ from langchain_core.messages import ChatMessage
 from rag import rag_setup, create_rag_quiz_chain
 import os
 
-st.title("PDF 기반 질의응답 챗봇")
+st.title("PDF 기반 퀴즈 챗봇")
 
 # 캐시 디렉토리 생성
 if not os.path.exists(".cache"):
